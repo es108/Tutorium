@@ -1,0 +1,21 @@
+from,to,weight
+Chuck,Dan,1
+Dan ,Chuck,1
+Serena,Blair,3
+Blair,Serena,3
+Nate,Blair,1
+Blair,Nate,1
+Dan ,Nate,1
+Nate,Dan,1
+Chuck,Serena,2
+Serena,Chuck,2
+Dan ,Blair,2
+Blair,Dan,2
+Serena,Dan,3
+Dan ,Serena,3
+Blair,Chuck,3
+Chuck,Blair,3
+Chuck,Nate,3
+Nate,Chuck,3
+Serena,Nate,2
+Nate,Serena,2
